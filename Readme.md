@@ -22,3 +22,5 @@ Members can link up, see events, sign up for events, and connect with other memb
 ## Back-End GitHub Repo ##
 
 - 'https://github.com/WillKirkhope/Group-Proj-Backend'
+
+![Image description](./homescreenimage.png)
